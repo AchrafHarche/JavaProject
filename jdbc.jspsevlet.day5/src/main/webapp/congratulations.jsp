@@ -47,7 +47,7 @@
   </table>
   
   <a href="getALLRecords">
-  <button type ="button" class="btn btn-primary">Show All Records</button>
+  <button type ="button" class="btn"><img alt="" src="img/moreinfo.jpg" style="height: 60px; "> </button>
   </a>
   
   <form action="ALLRecords" method="get"></form>

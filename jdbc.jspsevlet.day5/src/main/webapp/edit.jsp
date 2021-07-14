@@ -39,7 +39,7 @@
 </select>
 
 <br/>
-<button type="submit" class="btn btn-primary">Edit</button>
+<button type="submit" class="btn"><img alt="" src="img/edit.jpg" style="height: 40px; "></button>
 
 
 </form>

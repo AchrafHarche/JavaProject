@@ -42,11 +42,11 @@
 						<td>${usr.email}</td>
 						<td>${usr.gender}</td>
 						<td><a href="deleteServlet?username=${usr.username}">
-<button type="button" class="btn btn-danger">Delete</button>
+<button type="button" class="btn"><img alt="" src="img/delete.jpg" style="height: 40px; "></button>
 </a></td>
 
 <td><a href="showEditFormServlet?username=${usr.username}">
-<button type="button" class="btn btn-primary">Update</button>
+<button type="button" class="btn"><img alt="" src="img/edit.jpg" style="height: 40px; "> </button>
 </a></td>
 
 					</tr>

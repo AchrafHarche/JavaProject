@@ -39,7 +39,7 @@
 </select>
 
 <br/>
-<button type="submit" class="btn btn-primary">Sign In</button>
+<button type="submit" class="btn"><img alt="" src="img/signup.jpg" style="height:60px;"></button>
 
 
 </form>
